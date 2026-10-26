@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Resume RAC Editor</title>
+  <desc id="desc">Turn experience into evidence. Result: what changed. Action: what you did. Context: where it mattered.</desc>
+  <rect width="1200" height="630" rx="24" fill="#101e2b"/>
+  <path d="M48 80H1152" stroke="#344452"/>
+  <circle cx="58" cy="48" r="6" fill="#b8efca"/>
+  <text x="78" y="54" fill="#cfdae2" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">A SKILL FOR A CLEARER RESUME</text>
+  <text x="60" y="163" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Turn experience</text>
+  <text x="60" y="237" fill="#b8efca" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">into evidence.</text>
+  <text x="63" y="286" fill="#bbc9d4" font-family="Arial, Helvetica, sans-serif" font-size="23">Resume RAC Editor</text>
+  <rect x="60" y="332" width="340" height="190" rx="14" fill="#b8efca"/>
+  <text x="84" y="373" fill="#19352a" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">01 / RESULT</text>
+  <text x="84" y="424" fill="#132a20" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">What changed?</text>
+  <text x="84" y="468" fill="#294f3d" font-family="Arial, Helvetica, sans-serif" font-size="20">Lead with a supported</text>
+  <text x="84" y="495" fill="#294f3d" font-family="Arial, Helvetica, sans-serif" font-size="20">outcome or delivery</text>
+  <rect x="430" y="332" width="340" height="190" rx="14" fill="#c5d9ff"/>
+  <text x="454" y="373" fill="#293c63" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">02 / ACTION</text>
+  <text x="454" y="424" fill="#1b2d50" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">What did you do?</text>
+  <text x="454" y="468" fill="#354c75" font-family="Arial, Helvetica, sans-serif" font-size="20">Show your contribution,</text>
+  <text x="454" y="495" fill="#354c75" font-family="Arial, Helvetica, sans-serif" font-size="20">method and ownership</text>
+  <rect x="800" y="332" width="340" height="190" rx="14" fill="#f5d6af"/>
+  <text x="824" y="373" fill="#604123" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">03 / CONTEXT</text>
+  <text x="824" y="424" fill="#47311c" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Where did it matter?</text>
+  <text x="824" y="468" fill="#70502f" font-family="Arial, Helvetica, sans-serif" font-size="20">Name the audience,</text>
+  <text x="824" y="495" fill="#70502f" font-family="Arial, Helvetica, sans-serif" font-size="20">problem or setting</text>
+  <text x="60" y="580" fill="#bbc9d4" font-family="Arial, Helvetica, sans-serif" font-size="18">Defensible claims. Meaningful emphasis. Careful layout.</text>
+  <text x="1140" y="580" text-anchor="end" fill="#bbc9d4" font-family="Arial, Helvetica, sans-serif" font-size="18">by Om Umrania</text>
+</svg>
